@@ -1,0 +1,5 @@
+*.svg
+main_project.md
+README.md
+Snakefile
+.snakemake/*
