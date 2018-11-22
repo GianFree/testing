@@ -77,6 +77,7 @@ dependencies:
   - matplotlib=3.0.2=py37h8a2030e_1
   - matplotlib-base=3.0.2=py37h20b835b_1
   - mdanalysis=0.19.2=py37hfc679d8_0
+  - mdanalysisdata=0.6.0=py_0
   - mistune=0.8.4=py37h470a237_0
   - mmtf-python=1.1.2=py_0
   - msgpack-python=0.5.6=py37h2d50403_3
